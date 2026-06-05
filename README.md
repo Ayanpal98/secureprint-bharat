@@ -2,7 +2,7 @@
 
 SecurePrint is a web-based presentation and interactive frontend demo for a hardware/software kiosk framework engineered to address standard document exposure vulnerabilities at public printing stalls across India. It provides local clients with cryptographic file safety, WhatsApp integration, document retrieval via government-backed services, automated visual status verification, and instant local hardware shredding protocols.
 
-🌐 **[Live Demo Interactive Link](https://yourusername.github.io/secure-print-kiosk/)** *(Update this link after activating GitHub Pages)*
+🌐 **[Live Demo Interactive Link](https://secureprint-bharat-gamma.vercel.app/)** *(Update this link after activating GitHub Pages)*
 
 ---
 
